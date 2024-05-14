@@ -1,6 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-## Name:N.NAVYA SREE
-## REG NO:212223040138
+## Name:MOHAN KUMAR P
+## REG NO:212222220026
 ## AIM
 To write a python program to perform sliding window protocol
 ## ALGORITHM:
